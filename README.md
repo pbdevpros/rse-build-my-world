@@ -1,5 +1,5 @@
-# robotics
-Development repo for trial using C++ and Gazebo
+# rse-build-my-world
+Display of Nanodegree project Build My World
 
 
 ### Steps to launch the simulation
